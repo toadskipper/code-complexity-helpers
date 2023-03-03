@@ -7,7 +7,7 @@ import {
   orEmptyString,
   orUndefined,
   setOn
-} from '../index';
+} from './index';
 
 describe('codeComplexityHelpers: ', () => {
   interface Some {
